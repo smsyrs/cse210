@@ -1,5 +1,5 @@
 from cgi import test
-from game.dice import Die
+from game.die import Die
 
 
 class Director:
